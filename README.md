@@ -1,6 +1,6 @@
-### Olá, Blenda aqui! 🐣
-Atualmente estou estudando **Javascript, HTML e CSS**, e na universidade, já estive em contato com **C e Java**. 
-Você pode utilizar os pronomes _ela/dela_ comigo. 
+### Hi, Blenda here! 🐣
+I am currently studying **Javascript, HTML and CSS**, and at university I have been in contact with **C and Java**. 
+You can use the pronouns _she/her_ with me. 
 <div align="center">
   <a href="https://github.com/blendacosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blendacosta&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
