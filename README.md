@@ -14,7 +14,7 @@ You can use the pronouns _she/her_ with me.
   <img align="center" height="30" width="40" alt="blenda-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" height="30" width="40" alt="blenda-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" alt="blenda-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="blenda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899654804719145041/899664730875125770/download20210504112009.png">
+  <img align="right" alt="blenda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899654804719145041/899677896166236230/download20211001121820.png">
 </div>
   
  ##
