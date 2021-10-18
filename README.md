@@ -14,14 +14,14 @@ Você pode utilizar os pronomes _ela/dela_ comigo.
   <img align="center" height="30" width="40" alt="blenda-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" height="30" width="40" alt="blenda-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" alt="blenda-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="right" alt="blenda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899654804719145041/899664730875125770/download20210504112009.png">
 </div>
   
  ##
   
 <div>
-  <img align="right" alt="blenda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899654804719145041/899664730875125770/download20210504112009.png">
   <a href="https://t.me/blenda_costa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/blenda-costa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
 </div>
   
+ ![Snake animation](https://github.com/blendacosta/blendacosta/blob/output/github-contribution-grid-snake.svg)
