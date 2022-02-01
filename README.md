@@ -1,5 +1,5 @@
 ### Hi, Blenda here! 🐣
-I am currently studying **Javascript, HTML and CSS**, and at university I have been in contact with **C and Java**. 
+I am currently studying **Javascript, HTML and CSS**, and at university I have been in contact with **C, Java, Ruby and Python**. 
 You can use the pronouns _she/her_ with me. 
 <div align="center">
   <a href="https://github.com/blendacosta">
