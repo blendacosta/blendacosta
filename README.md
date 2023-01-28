@@ -8,7 +8,7 @@
 ---
 ### oi! sou a blen(da) 
 - a minha atual jornada é acadêmica (estou no 6º período de ciência da computação);
-- meus interesses de estudos são *interação humano-computador* (ich) e *inteligência artificial* (ia);
+- meus interesses de estudos são *interação humano-computador* (ihc) e *inteligência artificial* (ia);
 - estou desenvolvendo minha habilidade em resolução de problemas;
 - já estive em contato com *git, mysql, python, java, ruby, c, javascript, html + css*; e...
 - aprendendo coreano :)
